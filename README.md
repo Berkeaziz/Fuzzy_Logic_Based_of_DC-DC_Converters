@@ -28,7 +28,7 @@ Classical controllers (PI, 3P3Z) may struggle under these conditions.
 ## System Architecture
 
 <p align="center">
-  <img src="images/Controller_Design.png" width="400"/>
+  <img src="images/Controller_Design.png" width="700"/>
 </p>
 
 The control loop consists of:
