@@ -1,9 +1,5 @@
 # Fuzzy Logic Based Control of DC-DC Converters
 
-<p align="center">
-  <img src="images/Simulink_BlockDiagram.png" width="700"/>
-</p>
-
 ## Overview
 
 This project presents the **design, simulation, and real-time implementation** of control methods for DC-DC converters, with a focus on **Fuzzy Logic Control (FLC)** applied to a buck converter.
@@ -106,10 +102,6 @@ The fuzzy controller uses:
 
 ## Embedded Implementation
 
-<p align="center">
-  <img src="images/Controller_Design.png" width="650"/>
-</p>
-
 The controller is implemented on:
 
 - **STM32G474E-DPOW1**
@@ -150,7 +142,6 @@ System features:
 ├── docs/
 │   └── thesis_tr.pdf
 ├── images/
-│   ├── Simulink_BlockDiagram.png
 │   ├── Controller_Design.png
 │   ├── Error_Membership.png
 │   ├── Error_changing_membership.png
