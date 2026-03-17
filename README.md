@@ -28,7 +28,7 @@ Classical controllers (PI, 3P3Z) may struggle under these conditions.
 ## System Architecture
 
 <p align="center">
-  <img src="images/Controller_Design.png" width="700"/>
+  <img src="images/Controller_Design.png" width="400"/>
 </p>
 
 The control loop consists of:
@@ -45,15 +45,15 @@ The control loop consists of:
 ### Membership Functions
 
 <p align="center">
-  <img src="images/Error_Membership.png" width="500"/>
+  <img src="images/Error_Membership.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="images/Error_changing_membership.png" width="500"/>
+  <img src="images/Error_changing_membership.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="images/Duty_Changing_Membership.png" width="500"/>
+  <img src="images/Duty_Changing_Membership.png" width="400"/>
 </p>
 
 The fuzzy controller uses:
@@ -64,13 +64,13 @@ The fuzzy controller uses:
 ### Rule Base
 
 <p align="center">
-  <img src="images/Rule_Table.png" width="550"/>
+  <img src="images/Rule_Table.png" width="400"/>
 </p>
 
 ### Fuzzy System Configuration
 
 <p align="center">
-  <img src="images/Fuzzy_Settings.png" width="600"/>
+  <img src="images/Fuzzy_Settings.png" width="400"/>
 </p>
 
 - Inference Type: Mamdani  
@@ -83,19 +83,19 @@ The fuzzy controller uses:
 ### Output Voltage Response
 
 <p align="center">
-  <img src="images/FLC_Voltage_Output.png" width="650"/>
+  <img src="images/FLC_Voltage_Output.png" width="400"/>
 </p>
 
 ### Response to Load Changes
 
 <p align="center">
-  <img src="images/FLC_Load_Changing_Performance.png" width="650"/>
+  <img src="images/FLC_Load_Changing_Performance.png" width="400"/>
 </p>
 
 ### Response to Resistance Variation
 
 <p align="center">
-  <img src="images/FLC_Resistor_Changing_Performance.png" width="650"/>
+  <img src="images/FLC_Resistor_Changing_Performance.png" width="400"/>
 </p>
 
 ---
