@@ -173,8 +173,3 @@ This project demonstrates that fuzzy logic control is a strong alternative to cl
 The approach is validated through both simulation and real-time embedded implementation.
 
 ---
-
-## Author
-
-**Berke Aziz Yılmaz**  
-Electrical Engineering – Istanbul Technical University  
