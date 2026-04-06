@@ -6,8 +6,8 @@ This project presents the **design, simulation, and real-time implementation** o
 
 The system is developed using MATLAB/Simulink and validated through embedded implementation.
 
-📄 Full thesis available here:  
-👉 [Turkish Thesis PDF](docs/thesis_tr.pdf)
+Full graduation project available here:
+[Turkish Thesis PDF](docs/thesis_tr.pdf)
 
 ---
 
